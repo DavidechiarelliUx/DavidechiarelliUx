@@ -12,7 +12,7 @@
   <a href="https://instagram.com/Davide_chiarelli99">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/davide-chiarelli-/">
+  <a href="https://www.linkedin.com/in/davide-chiarelli-/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
